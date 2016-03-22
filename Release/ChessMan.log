@@ -1,0 +1,11 @@
+﻿生成启动时间为 2016/3/22 21:10:08。
+     1>项目“C:\Users\Tach\Desktop\Gobang\ChessMan.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"Release\Gobang.res" Gobang.rc 
+     1>Gobang.rc(65): error RC2104: undefined keyword or key name: WS_EX_NOINHERITLAYOUT
+         
+     1>已完成生成项目“C:\Users\Tach\Desktop\Gobang\ChessMan.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.80
